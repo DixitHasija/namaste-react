@@ -339,7 +339,7 @@
     }
     .pincode-container{
         text-align: left;
-        padding: 20px;
+        padding: 10px 20px;
     }
 
     h2 {
@@ -355,7 +355,7 @@
         align-items: center;
         background-color: #f7f7f7;
         border-radius: 10px;
-        padding: 5px;
+        padding: 5px 15px;
         
     }
     .input-container>input {
@@ -477,7 +477,7 @@
     .promise-badges-container {
         display: flex;
         width: 100%;
-        padding: 20px;
+        padding: 10px 20px;
         flex-wrap: wrap;
     }
     .promise-badges {
@@ -486,12 +486,12 @@
         line-height: 16px;
         align-items: center;
         flex: 1 1 50%;
-        padding: 15px 0px;
+        padding: 10px 0px;
     }
     .promise-badges img{
-        width: 18px;
-        height: 18px;
-        padding-right: 10px;
+        width: 32px;
+        height: 32px;
+        margin-right: 10px;
         cursor: pointer;
     }
     .promise-badges .text {
@@ -523,7 +523,7 @@
         font-family: Arial, Helvetica, sans-serif !important;
     }
 
-    .d-none {
+    .d-none , .shine.shimmer-lines.d-none {
         display: none!important;
     }
 
